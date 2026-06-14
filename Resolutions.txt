@@ -4,3 +4,4 @@ My resolutiions in 2026 :
 - Learn JavaScript consistently until mastering it
 - Learn React consistently until mastering it
 - Learn git consistently until mastering it
+- Create real projects
